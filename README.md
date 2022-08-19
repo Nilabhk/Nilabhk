@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **data analysis using **
 - **(Excel, SQL, Python, Tableau and Basics of ML).**
 
-- - 👀 I’m interested in **problem solving, teamwork activities, leading the team** for any type of task.
+- 👀 I’m interested in **problem solving, teamwork activities, leading the team** for any type of task.
 
-- - 📫 My Portfolio at  Nilabh'sPortfolio <a href="https://nilabh.dev.voyage"><img align="center" src="https://dev.voyage/og-image.png" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
+- 📫 My Portfolio at  Nilabh'sPortfolio <a href="https://nilabh.dev.voyage"><img align="center" src="https://dev.voyage/og-image.png" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/nilabhk?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
 
