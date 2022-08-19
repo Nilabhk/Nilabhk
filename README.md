@@ -57,9 +57,9 @@ You can click the Preview link to take a look at your changes.
 <!-- GITHUB STAT CODE -->
 <p align="left"> 
     <a href=" " target="_blank"> <img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" height="40"/> </a> 
-    <a href=" " target="_blank"> <img src= "https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="40" height="40"/> </a>
+    <a href=" " target="_blank"> <img src= "https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="40" height="40"/> <h2 dir="auto"><strong>Reach out to me:</strong> </h2></a>
 </p>
-<h2><strong>Github Stats:</strong></h2>
+<h2 dir="auto"><strong>Reach out to me:</strong> </h2>
 <!-- 1st DROP DOWN -->
 
 <details>
@@ -73,16 +73,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--CONNECT WITH ME CODE  -->
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
-
-<div class="image123">
-    <img src="/images/tv.gif" height="200" width="200" style="float:left">
-    <p>This is image 1</p>
-    <img class="middle-img" src="/images/tv.gif"/ height="200" width="200">
-    <p>This is image 2</p>
-    <img src="/images/tv.gif"/ height="200" width="200">
-    <p>This is image 3</p>
-</div>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
 
 <!-- CONNECT WITH ME ICONS CODE -->
 <p align="left">
