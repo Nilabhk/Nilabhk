@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GITHUB STAT CODE -->
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
 <h2 dir="auto"><img src="https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
 
 
