@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Analytical Skills**
 
-- 🌱 I’m currently learning **data analysis using **
-- **(Excel, SQL, Python, Tableau and Basics of ML).**
+- 🌱 I’m currently learning **data analysis using
+ (Excel, SQL, Python, Tableau and Basics of ML).**
 
 - 👀 I’m interested in **problem solving, teamwork activities, leading the team** for any type of task.
 
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GITHUB STAT CODE -->
 
-<h2 dir="auto"><img src="https://miro.medium.com/max/2400/2*FMIQlirVkoZ0_w72krYr-w.jpeg" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+<h2 dir="auto"><img src="https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
 
 <!-- 1st DROP DOWN -->
 
