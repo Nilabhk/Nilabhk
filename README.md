@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- MASTER PIC -->
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" height="175px"/></a>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/266787426/original/8cc2d86cd5813152c8540fcdedf4e74395d4230d/be-your-data-analyst-and-visualization-expert.png" height="175px"/></a>
 
 <!-- INTRODUCTION -->
     
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Samar </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80"> I'm Nilabh </h1>
 <h3 align="center">I'm an aspiring Data Analyst from India.</h3>
 
 
