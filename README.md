@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ABOUT ME -->
 
-<img align="right" alt="Coding" width="400" height="280" src="https://miro.medium.com/max/2400/2*FMIQlirVkoZ0_w72krYr-w.jpeg">
+<img align="right" alt="Coding" width="400" height="260" src="https://miro.medium.com/max/2400/2*FMIQlirVkoZ0_w72krYr-w.jpeg">
 
 - 🔭 I’m currently working on **Analytical Skills**
 
@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--CONNECT WITH ME CODE  -->
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
 
 <!-- CONNECT WITH ME ICONS CODE -->
 <p align="left">
