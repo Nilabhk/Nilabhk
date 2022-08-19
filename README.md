@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Nilabhk
-- 👀 I’m interested in problem solving, teamwork activities, leading the team for any type of task.
-- 🌱 I’m currently learning basics of data analysis (Excel, SQL, Python, Tableau and Basics of ML).
-- 💞️ I’m looking to collaborate on data analysis project using EXCEL, SQL, Python.
-- 📫 My Portfolio at <!---
 
 <!---
 Nilabhk/Nilabhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +24,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Analytical Skills**
 
-- 🌱 I’m currently learning **Data Science and Analytics.**
+- 🌱 I’m currently learning **data analysis using (Excel, SQL, Python, Tableau and Basics of ML).**
+
+- - 👀 I’m interested in **problem solving, teamwork activities, leading the team** for any type of task.
+
+- - 📫 My Portfolio at  Nilabh'sPortfolio <a href="https://nilabh.dev.voyage"><img align="center" src="https://dev.voyage/og-image.png" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/nilabhk?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
 
@@ -55,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GITHUB STAT CODE -->
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+<h2 dir="auto"><img src="https://miro.medium.com/max/2400/2*FMIQlirVkoZ0_w72krYr-w.jpeg" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
 
 <!-- 1st DROP DOWN -->
 
