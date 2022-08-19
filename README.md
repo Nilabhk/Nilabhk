@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
       <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -48,7 +49,6 @@ You can click the Preview link to take a look at your changes.
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
     <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 </p>
@@ -57,9 +57,8 @@ You can click the Preview link to take a look at your changes.
 <!-- GITHUB STAT CODE -->
 <p align="left"> 
     <a href=" " target="_blank"> <img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" height="40"/> </a> 
-    <a href=" " target="_blank"> <img src= "https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="40" height="40"/> <h2 dir="auto"><strong>Reach out to me:</strong> </h2></a>
+    <a href=" " target="_blank"> <img src= "https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="40" height="40"/> <h2 dir="auto"><strong>Github Stats</strong> </h2></a>
 </p>
-<h2 dir="auto"><strong>Reach out to me:</strong> </h2>
 <!-- 1st DROP DOWN -->
 
 <details>
