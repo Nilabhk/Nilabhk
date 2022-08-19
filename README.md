@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/nilabhk?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/nilabhk)**
 
 <br>
 
@@ -47,21 +46,16 @@ You can click the Preview link to take a look at your changes.
 <p align="center">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
     <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 </p>
-<br>
-<!-- STREAK CODE -->
-
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samar4saeedkhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="samar4saeedkhan" /></p>
-
 
 <!-- GITHUB STAT CODE -->
 
@@ -72,27 +66,11 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
  <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=samar4saeedkhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samar4saeedkhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" /></p>
+ <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nilabhk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="nilabhk" >
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilabhk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- 2nd DROP DOWN -->
-
-<details>
- <summary><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> <b>Github Profile Trophy</b></summary>
-<br>
-  <p align="center" dir="auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=samar4saeedkhan&theme=onedark">
-</details>
-
-<!-- 3rd DROP DOWN -->
-
-<details>
-  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
-    <br>
-    <a href="https://github.com/samar4saeedkhan/github-readme-activity-graph"><img alt="Samar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samar4saeedkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    </details>
 
 <!--CONNECT WITH ME CODE  -->
 
@@ -100,10 +78,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- CONNECT WITH ME ICONS CODE -->
 <p align="left">
-<a href = "https://www.linkedin.com/in/samarsaeedkhan/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/samar4saeedkhan" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:samarsaeedkhan4@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/samarsaeedkhan4" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
+<a href = "https://www.linkedin.com/in/nilabhk/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://github.com/nilabhk" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
+<a href="mailto:nilabhk5@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href="https://www.hackerrank.com/nilabhk5" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
 </p>
 
 <h2 dir="auto"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" width="40" data-animated-image="" </a> <strong>Contribution Graph:</strong> </h2>
