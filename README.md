@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GITHUB STAT CODE -->
 <p align="left"> 
     <a href=" " target="_blank"> <img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" height="40"/> </a> 
-    <a href=" " target="_blank"> <img src= "https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="40" height="40"/> <strong>Github Stats:</strong></a>
+    <a href=" " target="_blank"> <img src= "https://i.gifer.com/origin/4f/4f2a967f89facb7eba40d12db6c459cf_w200.webp" width="40" height="40"/> <h2 dir="auto"><strong>Github Stats:</strong></h2></a>
     <h2 dir = "auto"> 
     <h2 dir="auto"><img <strong>Github Stats:</strong></h2> 
 </p>
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
   <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
  <br>
  <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nilabhk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="nilabhk" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilabhk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="samar4saeedkhan" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilabhk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="nilabhk" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
