@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving, teamwork activities, leading the team for any type of task.
 - 🌱 I’m currently learning basics of data analysis (Excel, SQL, Python, Tableau and Basics of ML).
 - 💞️ I’m looking to collaborate on data analysis project using EXCEL, SQL, Python.
-- 📫 How to reach me ...
+- 📫 My Portfolio at <!---
 
 <!---
 Nilabhk/Nilabhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- MASTER PIC -->
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/266787426/original/8cc2d86cd5813152c8540fcdedf4e74395d4230d/be-your-data-analyst-and-visualization-expert.png" height="175px"/></a>
+<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" height="175px"/></a>
 
 <!-- INTRODUCTION -->
     
@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Data Science and Analytics.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/samar4saeedkhan?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/nilabhk?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nilabhk" height="30" width="40" style="max-width: 100%;"></a>
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/samarsaeedkhan)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/nilabhk)**
 
 <br>
 
