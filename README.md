@@ -20,11 +20,12 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ABOUT ME -->
 
-<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://miro.medium.com/max/2400/2*FMIQlirVkoZ0_w72krYr-w.jpeg">
 
 - 🔭 I’m currently working on **Analytical Skills**
 
-- 🌱 I’m currently learning **data analysis using (Excel, SQL, Python, Tableau and Basics of ML).**
+- 🌱 I’m currently learning **data analysis using **
+- **(Excel, SQL, Python, Tableau and Basics of ML).**
 
 - - 👀 I’m interested in **problem solving, teamwork activities, leading the team** for any type of task.
 
@@ -41,13 +42,13 @@ You can click the Preview link to take a look at your changes.
 <p align="center">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+      <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="pandas" width="40" height="40"/> </a> 
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
     <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-      <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
 </p>
