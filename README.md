@@ -3,8 +3,8 @@
 Nilabhk/Nilabhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- My Data Analyst GIF  -->
-<img src="![Nilabh_github](https://user-images.githubusercontent.com/66992000/193612883-48f261b3-8c4a-4f25-9bb0-b8298e33b253.gif)" alt="My Data Analyst GIF" style="width:120px;height:120px;">
+<!-- My Data Analyst GIF ![Nilabh_github](https://user-images.githubusercontent.com/66992000/193612883-48f261b3-8c4a-4f25-9bb0-b8298e33b253.gif) -->
+<img src="https://user-images.githubusercontent.com/66992000/193612883-48f261b3-8c4a-4f25-9bb0-b8298e33b253.gif" alt="My Data Analyst GIF" style="width:1200px;height:200px;">
 
 ![Nilabh_github](https://user-images.githubusercontent.com/66992000/193612883-48f261b3-8c4a-4f25-9bb0-b8298e33b253.gif)
 
