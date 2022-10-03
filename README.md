@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- MASTER PIC -->
 
-<p align="center"> <a target="_blank" rel="noopener noreferrer" href="#"><img width="500" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" height="175px"/></a>
+
 
 <!-- INTRODUCTION -->
     
