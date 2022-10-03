@@ -5,10 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- My Data Analyst GIF  -->
 
-
-
-https://user-images.githubusercontent.com/66992000/193611929-a39daace-aeaf-4434-8a18-0f7f8c3d8005.mp4
-
+![Nilabh_github](https://user-images.githubusercontent.com/66992000/193612883-48f261b3-8c4a-4f25-9bb0-b8298e33b253.gif)
 
 
 <!-- INTRODUCTION -->
